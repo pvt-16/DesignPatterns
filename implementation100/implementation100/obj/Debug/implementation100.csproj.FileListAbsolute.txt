@@ -1,0 +1,6 @@
+c:\DesignPatterns\implementation100\implementation100\bin\Debug\implementation100.dll
+c:\DesignPatterns\implementation100\implementation100\bin\Debug\implementation100.pdb
+c:\DesignPatterns\implementation100\implementation100\bin\Debug\CommonLibrary.dll
+c:\DesignPatterns\implementation100\implementation100\bin\Debug\CommonLibrary.pdb
+c:\DesignPatterns\implementation100\implementation100\obj\Debug\implementation100.dll
+c:\DesignPatterns\implementation100\implementation100\obj\Debug\implementation100.pdb

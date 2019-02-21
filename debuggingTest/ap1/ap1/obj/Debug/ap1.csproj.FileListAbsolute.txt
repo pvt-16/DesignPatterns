@@ -1,0 +1,14 @@
+C:\DesignPatterns\debuggingTest\ap1\ap1\bin\Debug\ap1.exe.config
+C:\DesignPatterns\debuggingTest\ap1\ap1\bin\Debug\ap1.exe
+C:\DesignPatterns\debuggingTest\ap1\ap1\bin\Debug\ap1.pdb
+C:\DesignPatterns\debuggingTest\ap1\ap1\obj\Debug\ap1.csprojResolveAssemblyReference.cache
+C:\DesignPatterns\debuggingTest\ap1\ap1\obj\Debug\MainWindow.g.cs
+C:\DesignPatterns\debuggingTest\ap1\ap1\obj\Debug\App.g.cs
+C:\DesignPatterns\debuggingTest\ap1\ap1\obj\Debug\ap1_MarkupCompile.cache
+C:\DesignPatterns\debuggingTest\ap1\ap1\obj\Debug\ap1_MarkupCompile.lref
+C:\DesignPatterns\debuggingTest\ap1\ap1\obj\Debug\MainWindow.baml
+C:\DesignPatterns\debuggingTest\ap1\ap1\obj\Debug\ap1.g.resources
+C:\DesignPatterns\debuggingTest\ap1\ap1\obj\Debug\ap1.Properties.Resources.resources
+C:\DesignPatterns\debuggingTest\ap1\ap1\obj\Debug\ap1.csproj.GenerateResource.Cache
+C:\DesignPatterns\debuggingTest\ap1\ap1\obj\Debug\ap1.exe
+C:\DesignPatterns\debuggingTest\ap1\ap1\obj\Debug\ap1.pdb

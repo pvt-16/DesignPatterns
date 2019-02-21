@@ -1,0 +1,12 @@
+c:\users\prabha.venkatesh\documents\visual studio 2015\Projects\Debugging\Debugging\bin\Debug\Debugging.exe.config
+c:\users\prabha.venkatesh\documents\visual studio 2015\Projects\Debugging\Debugging\bin\Debug\Debugging.exe
+c:\users\prabha.venkatesh\documents\visual studio 2015\Projects\Debugging\Debugging\bin\Debug\Debugging.pdb
+c:\users\prabha.venkatesh\documents\visual studio 2015\Projects\Debugging\Debugging\obj\Debug\Debugging.csprojResolveAssemblyReference.cache
+c:\users\prabha.venkatesh\documents\visual studio 2015\Projects\Debugging\Debugging\obj\Debug\Debugging.exe
+c:\users\prabha.venkatesh\documents\visual studio 2015\Projects\Debugging\Debugging\obj\Debug\Debugging.pdb
+C:\DesignPatterns\Debugging\Debugging\bin\Debug\Debugging.exe.config
+C:\DesignPatterns\Debugging\Debugging\obj\Debug\Debugging.exe
+C:\DesignPatterns\Debugging\Debugging\obj\Debug\Debugging.pdb
+C:\DesignPatterns\Debugging\Debugging\bin\Debug\Debugging.exe
+C:\DesignPatterns\Debugging\Debugging\bin\Debug\Debugging.pdb
+C:\DesignPatterns\Debugging\Debugging\obj\Debug\Debugging.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\DesignPatterns\CommonLibrary\CommonLibrary\bin\Debug\CommonLibrary.dll
+c:\DesignPatterns\CommonLibrary\CommonLibrary\bin\Debug\CommonLibrary.pdb
+c:\DesignPatterns\CommonLibrary\CommonLibrary\obj\Debug\CommonLibrary.csprojResolveAssemblyReference.cache
+c:\DesignPatterns\CommonLibrary\CommonLibrary\obj\Debug\CommonLibrary.dll
+c:\DesignPatterns\CommonLibrary\CommonLibrary\obj\Debug\CommonLibrary.pdb

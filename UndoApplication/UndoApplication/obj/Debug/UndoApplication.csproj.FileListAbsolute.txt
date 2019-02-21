@@ -1,0 +1,6 @@
+c:\DesignPatterns\UndoApplication\UndoApplication\bin\Debug\UndoApplication.exe.config
+c:\DesignPatterns\UndoApplication\UndoApplication\bin\Debug\UndoApplication.exe
+c:\DesignPatterns\UndoApplication\UndoApplication\bin\Debug\UndoApplication.pdb
+c:\DesignPatterns\UndoApplication\UndoApplication\obj\Debug\UndoApplication.csprojResolveAssemblyReference.cache
+c:\DesignPatterns\UndoApplication\UndoApplication\obj\Debug\UndoApplication.exe
+c:\DesignPatterns\UndoApplication\UndoApplication\obj\Debug\UndoApplication.pdb

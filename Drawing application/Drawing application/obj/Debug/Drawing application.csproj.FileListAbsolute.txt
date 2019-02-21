@@ -1,0 +1,6 @@
+c:\DesignPatterns\Drawing application\Drawing application\bin\Debug\Drawing application.exe.config
+c:\DesignPatterns\Drawing application\Drawing application\bin\Debug\Drawing application.exe
+c:\DesignPatterns\Drawing application\Drawing application\bin\Debug\Drawing application.pdb
+c:\DesignPatterns\Drawing application\Drawing application\obj\Debug\Drawing application.csprojResolveAssemblyReference.cache
+c:\DesignPatterns\Drawing application\Drawing application\obj\Debug\Drawing application.exe
+c:\DesignPatterns\Drawing application\Drawing application\obj\Debug\Drawing application.pdb

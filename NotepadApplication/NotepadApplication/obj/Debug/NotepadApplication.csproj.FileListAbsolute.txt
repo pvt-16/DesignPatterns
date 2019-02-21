@@ -1,0 +1,5 @@
+c:\DesignPatterns\NotepadApplication\NotepadApplication\bin\Debug\NotepadApplication.exe.config
+c:\DesignPatterns\NotepadApplication\NotepadApplication\bin\Debug\NotepadApplication.exe
+c:\DesignPatterns\NotepadApplication\NotepadApplication\bin\Debug\NotepadApplication.pdb
+c:\DesignPatterns\NotepadApplication\NotepadApplication\obj\Debug\NotepadApplication.exe
+c:\DesignPatterns\NotepadApplication\NotepadApplication\obj\Debug\NotepadApplication.pdb

@@ -1,0 +1,5 @@
+c:\DesignPatterns\StackListBox\StackListBox\bin\Debug\StackListBox.pdb
+c:\DesignPatterns\StackListBox\StackListBox\obj\Debug\StackListBox.csprojResolveAssemblyReference.cache
+c:\DesignPatterns\StackListBox\StackListBox\obj\Debug\StackListBox.pdb
+C:\DesignPatterns\StackListBox\StackListBox\bin\Debug\StackListBox.exe
+C:\DesignPatterns\StackListBox\StackListBox\obj\Debug\StackListBox.exe

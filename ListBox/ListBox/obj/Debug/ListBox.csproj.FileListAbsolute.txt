@@ -1,0 +1,2 @@
+c:\DesignPatterns\ListBox\ListBox\bin\Debug\ListBox.exe.config
+c:\DesignPatterns\ListBox\ListBox\obj\Debug\ListBox.csprojResolveAssemblyReference.cache
